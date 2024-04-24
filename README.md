@@ -40,4 +40,16 @@ The summary of results are:
 * Further work needs to be done to find a model which improves the recall score without making the precision score signifantly worse.  Exploration of neural network is part of the future plans.
 * Important for the system validation user to check for the words or tokens corresponding to the above token IDs within the original logfile in order to debug the source of the anomalies or bugs.
 
+#### Outline of project
+
+- Link to Jupyter Notebook: (intermediate results with Decision Tree and Logistic Regression)
+https://github.com/SanjayRRavi/Module20_Capstone_Phase1/blob/main/Capstone_Phase1.ipynb
+
+
+##### Contact and Further Information
+
+Sanjay Ravi
+
+email: sanjay.ravi1975@gmail.com
+
 
